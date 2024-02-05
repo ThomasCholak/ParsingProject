@@ -12,4 +12,5 @@ will work for any input file entered by the user with any contents.
 
 Here is the output as per our input file with the corresponding files created. This is to simulate the tokens created by a compiler:
 
-![input1](https://github.com/ThomasCholak/ParsingProject/assets/63080803/8b62dd88-3660-4c30-86f5-dfc4584ffbd7)
+![input1](https://github.com/ThomasCholak/ParsingProject/assets/63080803/c8101721-6769-41be-8672-4ee4d3e26068)
+
